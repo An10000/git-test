@@ -1,7 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-misc.xml
-.gitignore
-*.xml
-*.iml
+# new ignored files
+/misc.xml
+/.gitignore
+/*.xml
+/*.iml
